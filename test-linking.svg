@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg11529"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="test-linking.svg">
+  <defs
+     id="defs11531">
+    <clipPath
+       id="clipPath12306"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12308"
+         d="M 538.58301,140.157 0,140.157 l 0,-2 538.58301,0 0,2 z" />
+    </clipPath>
+    <style
+       id="style12894"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;}
+  </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-0.5764937"
+     inkscape:cy="37.854543"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata11534">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <embed
+       sodipodi:absref="/home/joel/tst.svg"
+       xlink:href="./tst.svg"
+       y="500.93359"
+       x="92.85714"
+       id="image12149"
+       preserveAspectRatio="none"
+       height="551.42859"
+       width="662.85712" />
+    <image
+       sodipodi:absref="/home/joel/Pictures/Screenshot from 2016-04-19 22-31-44.png"
+       xlink:href="Pictures/Screenshot from 2016-04-19 22-31-44.png"
+       y="14.014872"
+       x="5.9285898"
+       id="image12160"
+       preserveAspectRatio="none"
+       height="441.91879"
+       width="466.55328" />
+    <path
+       id="path12204"
+       d="m 790.91581,62.84444 c -57.981,0 -105,43.82043 -105,97.85714 0,97.85715 105,215.28572 105,215.28572 0,0 104.99996,-117.42857 104.99996,-215.28572 0,-54.03671 -47.01896,-97.85714 -104.99996,-97.85714 z m 0,156.57143 c -34.797,0 -63,-26.28443 -63,-58.71429 0,-32.42985 28.203,-58.71428 63,-58.71428 34.797,0 62.99996,26.28443 62.99996,58.71428 0,32.42986 -28.20296,58.71429 -62.99996,58.71429 z"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="matrix(1.25,0,0,-1.25,-693.47545,1247.5923)"
+       inkscape:label="CCV-JoelOstblom-Vanier-Banting_Academic"
+       id="g12250">
+      <g
+         transform="matrix(1,0,0,-1,0,841.889)"
+         id="g12252">
+        <g
+           transform="translate(14.173,14.173)"
+           id="g12254" />
+        <g
+           transform="translate(14.173,813.543)"
+           id="g12256">
+          <text
+             id="text12258"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(282.354,8.5550003)">
+            <tspan
+               id="tspan12260"
+               y="0"
+               x="0">i</tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(28.346,42.519)"
+           id="g12262">
+          <g
+             transform="matrix(171.75,0,0,-75,0,76.650002)"
+             id="g12264">
+            <image
+               sodipodi:absref="/home/joel/CCV-JoelOstblom-Vanier-Banting_Academic_img0.png"
+               xlink:href="CCV-JoelOstblom-Vanier-Banting_Academic_img0.png"
+               style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+               id="image12266"
+               transform="matrix(1,0,0,-1,0,1)"
+               preserveAspectRatio="none"
+               height="1"
+               width="1" />
+          </g>
+          <g
+             transform="translate(350.078,0)"
+             id="g12268">
+            <g
+               transform="matrix(135,0,0,-38.25,53.504002,39.900002)"
+               id="g12270">
+              <image
+                 sodipodi:absref="/home/joel/CCV-JoelOstblom-Vanier-Banting_Academic_img1.png"
+                 xlink:href="CCV-JoelOstblom-Vanier-Banting_Academic_img1.png"
+                 style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                 id="image12272"
+                 transform="matrix(1,0,0,-1,0,1)"
+                 preserveAspectRatio="none"
+                 height="1"
+                 width="1" />
+            </g>
+            <text
+               id="text12274"
+               style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(70.113998,52.589001)">
+              <tspan
+                 id="tspan12276"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 6.6700001 10 15.56 18.34 23.9 28.9 31.68 37.240002 42.799999 45.580002 52.799999 58.360001 63.919998 69.480003 72.260002 77.260002 82.82 91.150002 96.709999 98.93 104.49 107.27 112.83">Protected when completed</tspan>
+            </text>
+          </g>
+          <text
+             id="text12278"
+             style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,105.223)">
+            <tspan
+               id="tspan12280"
+               sodipodi:role="line"
+               y="0"
+               x="0 8.6639996 15.336 19.332001 26.004 29.34 37.344002 44.675999 52.007999 62.675999 66.012001 70.008003 74.003998 80.676003 88.008003 92.003998">Date Submitted:</tspan>
+          </text>
+          <text
+             id="text12282"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(98.676002,105.223)">
+            <tspan
+               id="tspan12284"
+               sodipodi:role="line"
+               y="0"
+               x="0 6.6719999 13.344 20.016001 26.688 30.684 37.355999 44.028 48.023998 54.695999 61.368 64.704002 71.375999 78.047997 81.384003 88.056 94.727997 98.064003 104.736">2014-09-29 16:22:50</tspan>
+          </text>
+          <text
+             id="text12286"
+             style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,119.623)">
+            <tspan
+               id="tspan12288"
+               sodipodi:role="line"
+               y="0"
+               x="0 8.6639996 15.996 23.327999 27.323999 30.66 35.327999 45.995998 52.667999 56.664001 60 67.332001 74.664001 78 86.664001 93.996002 104.664 111.996 118.668 123.336 127.332">Confirmation Number:</tspan>
+          </text>
+          <text
+             id="text12290"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(134.004,119.623)">
+            <tspan
+               id="tspan12292"
+               sodipodi:role="line"
+               y="0"
+               x="0 6.6719999 13.344 20.016001 26.688 33.360001">284232</tspan>
+          </text>
+          <text
+             id="text12294"
+             style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,134.02299)">
+            <tspan
+               id="tspan12296"
+               sodipodi:role="line"
+               y="0"
+               x="0 7.3319998 14.004 24.672001 32.004002 35.34 42.012001 46.007999 52.68 56.675999">Template:</tspan>
+          </text>
+          <text
+             id="text12298"
+             style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(63.348,134.02299)">
+            <tspan
+               id="tspan12300"
+               sodipodi:role="line"
+               y="0"
+               x="0 8.0039997 14.676 21.348 24.011999 30.684 34.68 38.675999 46.68 53.352001 60.023998 63.360001 66.024002 72.695999 79.367996 82.704002 90.708 96.708 103.38 110.052 116.724 126.72 129.384">Vanier-Banting Academic</tspan>
+          </text>
+          <g
+             id="g12302">
+            <g
+               clip-path="url(#clipPath12306)"
+               id="g12304">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path12310"
+                 style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 0,139.157 538.58301,0" />
+            </g>
+          </g>
+          <text
+             id="text12312"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,177.645)">
+            <tspan
+               id="tspan12314"
+               sodipodi:role="line"
+               y="0"
+               x="0 11.662 17.108 21 24.892 32.675999 41.23 49.014 52.905998">Mr. Joel</tspan>
+          </text>
+          <text
+             id="text12316"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(60.69,177.645)">
+            <tspan
+               id="tspan12318"
+               sodipodi:role="line"
+               y="0"
+               x="0 10.892 18.676001 23.337999 31.892 35.784 44.338001">Ostblom</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path12320"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 56.798,178.91299 60.676,0 0,0.362 -60.676,0 0,-0.362 z" />
+          <text
+             id="text12322"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,191.87801)">
+            <tspan
+               id="tspan12324"
+               sodipodi:role="line"
+               y="0"
+               x="0 7.9419999 14.058 17.721001 21.384001 27.5 33 39.116001 45.231998 51.348 57.464001 63.580002 69.695999 75.195999 81.311996 84.370003 86.811996 92.928001 99.043999 105.16 111.276 117.392 123.508 129.62399 132.68201 135.74001 143.077 149.19299 155.30901 157.75101 160.19299 165.69299">Correspondence language: English</tspan>
+          </text>
+          <text
+             id="text12326"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,205.078)">
+            <tspan
+               id="tspan12328"
+               sodipodi:role="line"
+               y="0"
+               x="0 7.9419999 14.058 17.115999 23.232 26.290001 32.405998 35.464001 38.521999 45.859001 48.300999 51.964001 55.021999 61.138 64.195999 67.253998 73.370003 76.428001 82.543999">Date of Birth: 1/21</tspan>
+          </text>
+          <text
+             id="text12330"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,218.278)">
+            <tspan
+               id="tspan12332"
+               sodipodi:role="line"
+               y="0"
+               x="0 7.9419999 14.058 20.174 26.290001 32.405998 34.848 40.964001 47.080002 50.138 58.080002 64.195999 69.695999 72.138 78.253998 84.370003 90.486 95.986 101.486 104.544 111.881 114.939 121.055 124.113 130.229 135.729 138.787 141.845 149.18201 152.24001 158.356 164.472 169.972 173.03 180.367 186.483 190.146 199.30901 201.75101">Canadian Residency Status: Study Permit</tspan>
+          </text>
+          <text
+             id="text12334"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,231.478)">
+            <tspan
+               id="tspan12336"
+               sodipodi:role="line"
+               y="0"
+               x="0 7.3369999 13.453 19.569 22.011 24.452999 30.569 36.685001 39.743 42.800999 48.917 52.580002 55.638 62.974998 69.091003 72.753998 81.917 88.032997 94.149002 100.265 106.381 109.439 112.497 120.439 126.555 132.05499 134.49699 140.61301 146.729 152.845 158.345 163.845 169.961 173.019 176.077 184.019">Applied for Permanent Residency?: No</tspan>
+          </text>
+          <text
+             id="text12338"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,244.67799)">
+            <tspan
+               id="tspan12340"
+               sodipodi:role="line"
+               y="0"
+               x="0 7.9419999 14.058 20.174 26.290001 29.348 33.011002 38.511002 41.569 47.685001 50.743 53.800999 61.743 64.184998 67.242996 69.684998 75.184998 81.301003 87.417 92.917 99.032997 101.475 107.591 110.649 113.707 121.044 128.98599 135.10201 141.218 147.334">Country of Citizenship: Sweden</tspan>
+          </text>
+          <text
+             id="text12342"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#0066cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,274.61801)">
+            <tspan
+               id="tspan12344"
+               sodipodi:role="line"
+               y="0"
+               x="0 10.108 18.662001 27.216 31.878 39.661999 47.445999 52.108002 56 59.891998 68.445999 73.108002 81.662003 87.108002 99.554001 107.338 112 115.892 124.446">Contact Information</tspan>
+          </text>
+          <text
+             id="text12346"
+             style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,290.82999)">
+            <tspan
+               id="tspan12348"
+               sodipodi:role="line"
+               y="0"
+               x="0 6.1100001 11.67 17.23 20.01 25.57 28.9 31.120001 39.450001 45.009998 48.34 53.34 56.119999 58.34 63.900002 66.68 72.239998 75.57 83.900002 89.459999 92.239998 94.459999 100.02 105.58 108.36 110.58 115.58 118.36 123.92 129.48 135.03999 140.60001 143.38 148.94 154.5 157.28 162.84 167.84 170.62 173.95 177.84">The primary information is denoted by (*)</tspan>
+          </text>
+          <text
+             id="text12350"
+             style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,318.71399)">
+            <tspan
+               id="tspan12352"
+               sodipodi:role="line"
+               y="0"
+               x="0 8.6639996 15.996 23.327999 27.996 34.667999 41.34">Address</tspan>
+          </text>
+          <g
+             transform="translate(15.173,328.517)"
+             id="g12354">
+            <text
+               id="text12356"
+               style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(0,12.41)">
+              <tspan
+                 id="tspan12358"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 7.9419999 14.058 23.221001 29.337">Home</tspan>
+            </text>
+            <path
+               inkscape:connector-curvature="0"
+               id="path12360"
+               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 0,13.406 32.395,0 0,0.285 -32.395,0 0,-0.285 z" />
+            <text
+               id="text12362"
+               style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(35.453,12.41)">
+              <tspan
+                 id="tspan12364"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 3.6630001 7.9419999">(*)</tspan>
+            </text>
+          </g>
+          <g
+             transform="translate(15.173,347.717)"
+             id="g12366">
+            <text
+               id="text12368"
+               style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(0,12.41)">
+              <tspan
+                 id="tspan12370"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 6.1160002 12.232 18.348 21.406 28.743 32.405998 38.521999 44.638 50.138 58.080002 60.521999 66.022003 71.522003 74.580002 81.917 87.417">237 Brunswick Ave</tspan>
+            </text>
+            <text
+               id="text12372"
+               style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(0,25.610001)">
+              <tspan
+                 id="tspan12374"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 7.3369999 13.453 16.511 19.569 22.627001">Apt. 2</tspan>
+            </text>
+            <text
+               id="text12376"
+               style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(0,38.810001)">
+              <tspan
+                 id="tspan12378"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 6.7210002 12.837 16.5 22.615999 28.732 31.790001 37.905998 40.964001 49.521999 55.638 58.695999 64.811996 68.474998 70.917 77.032997 80.091003 89.253998 95.370003 102.707 105.765 111.881 121.044">Toronto Ontario M5S 2M6</tspan>
+            </text>
+            <text
+               id="text12380"
+               style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(0,52.009998)">
+              <tspan
+                 id="tspan12382"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 7.9419999 14.058 20.174 26.290001 32.405998">Canada</tspan>
+            </text>
+          </g>
+          <text
+             id="text12384"
+             style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,430.95599)">
+            <tspan
+               id="tspan12386"
+               sodipodi:role="line"
+               y="0"
+               x="0 7.3319998 14.004 17.34 24.011999 31.344 38.675999 46.007999 53.34">Telephone</tspan>
+          </text>
+          <g
+             transform="translate(15.173,440.759)"
+             id="g12388">
+            <text
+               id="text12390"
+               style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(0,10.41)">
+              <tspan
+                 id="tspan12392"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 9.1630001 15.279 21.395 23.837 26.278999 32.395 35.452999 39.116001 43.395">Mobile (*)</tspan>
+            </text>
+          </g>
+          <g
+             transform="translate(136.354,440.759)"
+             id="g12394">
+            <text
+               id="text12396"
+               style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(0,10.41)">
+              <tspan
+                 id="tspan12398"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 6.1160002 12.232 18.348 22.011 28.127001 34.243 40.359001 46.474998 52.591 58.707001">647-4478679</tspan>
+            </text>
+          </g>
+          <text
+             id="text12400"
+             style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(0,480.39801)">
+            <tspan
+               id="tspan12402"
+               sodipodi:role="line"
+               y="0"
+               x="0 8.0039997 18.672001 25.344 28.68">Email</tspan>
+          </text>
+          <g
+             transform="translate(15.173,490.201)"
+             id="g12404">
+            <text
+               id="text12406"
+               style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(0,10.41)">
+              <tspan
+                 id="tspan12408"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 7.3369999 13.453 17.115999 22.615999 28.732 34.848 40.964001 43.405998 46.464001 50.126999 54.405998">Personal (*)</tspan>
+            </text>
+          </g>
+          <g
+             transform="translate(136.354,490.201)"
+             id="g12410">
+            <text
+               id="text12412"
+               style="font-variant:normal;font-weight:normal;font-size:11px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(0,10.41)">
+              <tspan
+                 id="tspan12414"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 2.4419999 8.5579996 14.674 17.115999 20.174 26.290001 31.790001 34.848 40.964001 43.405998 49.521999 58.685001 69.849998 75.966003 85.128998 91.245003 93.686996 96.128998 99.186996 104.687 110.803">joel.ostblom@gmail.com</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
